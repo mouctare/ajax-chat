@@ -60,9 +60,11 @@ function postMessage(event){
     content.value = '';
     content.focus();
     getMessages();
-    
 
     
+    
+
+
   }
 
   requeteAjax.send(data);
