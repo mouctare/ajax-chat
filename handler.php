@@ -21,6 +21,7 @@ if($task == "write"){
   postMessage();
 } else {
   getMessages();
+  
 }
 
 /**
