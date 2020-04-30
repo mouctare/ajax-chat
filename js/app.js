@@ -5,6 +5,7 @@
 /**
  * Il nous faut une fonction pour récupérer le JSON des
  * messages et les afficher correctement
+ * 
  */
 function getMessages(){
   // 1. Elle doit créer une requête AJAX pour se connecter au serveur, et notamment au fichier handler.php
